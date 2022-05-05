@@ -5,7 +5,7 @@
 
 ### The Easy Way
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy To Heroku](https://dashboard.heroku.com/new?template=https://github.com/vok45/telethon_lars)
 
 
 ### UniBorg Configuration
